@@ -1,2 +1,6 @@
 # Detection_of_Pistachio_Types_By_Classifier_Models
-Detection of Pistachio Types By Classifier Models
+
+Did you know that pistachios come in various types? In Iran alone, botanists have identified over a dozen pistachio varieties, although a smaller number are commercially recognized and available. Given that each different species possesses unique and distinct characteristics, the identification of different types and the ability to differentiate between pistachios is a highly practical endeavor. For instance, some pistachios are more suitable for confectionery purposes, while others, which are crunchier in texture, are primarily consumed as snacks.
+
+Now, imagine a company or a wholesale store that purchases pistachios in bulk. They want to identify the specific type of pistachio they have purchased to ensure it matches their desired selection and that no one has engaged in fraudulent practices. But how can pistachios be judged and differentiated based on their appearance? If we entrust this task to a specialized individual (a pistachio expert!), in the best-case scenario, when they examine a pistachio, they assess its resemblance to known pistachio varieties in terms of shape. They also consider factors such as length, size, and even the level of openness, comparing them to known pistachio types. By asking such questions and conducting a thorough evaluation, the expert ultimately announces their final determination.
+
