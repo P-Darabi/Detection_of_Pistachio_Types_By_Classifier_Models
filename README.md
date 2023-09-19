@@ -1,0 +1,2 @@
+# Detection_of_Pistachio_Types_By_Classifier_Models
+Detection of Pistachio Types By Classifier Models
